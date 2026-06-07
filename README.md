@@ -4,8 +4,8 @@ AtliQ Grand is a renowned imaginary company with a chain of five-star hotels in 
 
 In this project, I acted as the service provider, utilizing Power BI to perform a detailed analysis of AtliQ Grand's data and generate valuable insights.
 
-# Key Deliverables
-## Performance Overview
+## Key Deliverables
+### Performance Overview
 Snapshot of key performance indicators (KPIs) such as revenue, RevPAR (Revenue Per Available Room), and occupancy percentage.
 Detailed metrics including average daily rates (ADR) and guest satisfaction scores.
 Revenue Overview
