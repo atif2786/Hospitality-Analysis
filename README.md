@@ -6,18 +6,22 @@ In this project, I acted as the service provider, utilizing Power BI to perform 
 
 ## Key Deliverables
 ### Performance Overview
-Snapshot of key performance indicators (KPIs) such as revenue, RevPAR (Revenue Per Available Room), and occupancy percentage.
-Detailed metrics including average daily rates (ADR) and guest satisfaction scores.
-Revenue Overview
-Analysis of revenue breakdowns across cities, hotel categories, and booking platforms.
-Insights aimed at optimizing sales strategies and improving revenue streams.
-Booking Overview
-Examination of booking patterns, cancellations, and guest behavior.
-Actionable insights to enhance operational efficiency and drive revenue growth.
-Skills and Technologies Used
-Data Visualization: Created interactive dashboards in Power BI.
-Revenue Analysis: Conducted detailed analysis of revenue metrics.
-Presentation Skills: Developed comprehensive presentations to communicate findings.
-Technical Proficiency: Utilized Power BI and DAX for data modeling and analysis.
-Industry Terminology: Familiarized with terms such as ADR (Average Daily Rate), DSRN (Daily Sales Report Number), DBRN (Daily Booking Report Number), RevPAR, and other hospitality-related metrics.
-Crafting these views required a blend of analytical prowess and creativity, resulting in valuable insights and recommendations.
+- Snapshot of key performance indicators (KPIs) such as revenue, RevPAR (Revenue Per Available Room), and occupancy percentage.
+- Detailed metrics including average daily rates (ADR) and guest satisfaction scores.
+  
+### Revenue Overview
+- Analysis of revenue breakdowns across cities, hotel categories, and booking platforms.
+- Insights aimed at optimizing sales strategies and improving revenue streams
+
+### Booking Overview
+- Examination of booking patterns, cancellations, and guest behavior.
+- Actionable insights to enhance operational efficiency and drive revenue growth.
+- 
+### Skills and Technologies Used
+- Data Visualization: Created interactive dashboards in Power BI.
+- Revenue Analysis: Conducted detailed analysis of revenue metrics.
+- Presentation Skills: Developed comprehensive presentations to communicate findings.
+- Technical Proficiency: Utilized Power BI and DAX for data modeling and analysis.
+- Industry Terminology: Familiarized with terms such as ADR (Average Daily Rate), DSRN (Daily Sales Report Number), DBRN (Daily Booking Report Number), RevPAR, and other hospitality-related metrics.
+- 
+Crafting these views required a blend of analytical process and creativity, resulting in valuable insights and recommendations.
